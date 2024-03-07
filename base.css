@@ -31,9 +31,9 @@
  * # imports 
  *
  * ------------------------------------------------------------------- */
-@import url("font-awesome/css/font-awesome.min.css");
-@import url("micons/micons.css");
-@import url("fonts.css");
+@import url("https://cdn.jsdelivr.net/gh/tyler-horschig/css/font-awesome.min.css");
+@import url("https://cdn.jsdelivr.net/gh/tyler-horschig/css/micons/micons.css");
+@import url("https://cdn.jsdelivr.net/gh/tyler-horschig/css/fonts.css");
 
 
 /* ===================================================================
